@@ -4,6 +4,7 @@ import "./styles/previewCard.css"
 function App() {
   return (
     <div className="App">
+      
       <PreviewCard />
     </div>
   );
